@@ -1,5 +1,6 @@
 {
   "name": "fooh",
+  "description": "FOOH.com for Claude Code: publish your renders to your FOOH portfolio and keep your profile maintained.",
   "owner": {
     "name": "FOOH.com",
     "url": "https://fooh.com"

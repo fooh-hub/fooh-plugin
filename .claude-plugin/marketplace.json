@@ -1,0 +1,15 @@
+{
+  "name": "fooh",
+  "owner": {
+    "name": "FOOH.com",
+    "url": "https://fooh.com"
+  },
+  "plugins": [
+    {
+      "name": "fooh",
+      "source": "./",
+      "description": "Build and maintain your FOOH.com portfolio from your renders folder: upload videos and stills, publish works with credits, and keep your profile current.",
+      "version": "1.0.0"
+    }
+  ]
+}

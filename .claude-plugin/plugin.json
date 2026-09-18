@@ -1,0 +1,13 @@
+{
+  "name": "fooh",
+  "version": "1.0.0",
+  "description": "Connect Claude Code to FOOH.com, the social-first home for digital artists (CGI, VFX, 3D, 2D animation, AI video, mixed reality). Publishes work from your disk, writes credits, and keeps your profile maintained.",
+  "author": {
+    "name": "FOOH.com",
+    "url": "https://fooh.com"
+  },
+  "homepage": "https://fooh.com/ai",
+  "repository": "https://github.com/fooh-hub/fooh-plugin",
+  "license": "MIT",
+  "keywords": ["fooh", "portfolio", "cgi", "vfx", "3d", "animation", "ai-video", "creators"]
+}

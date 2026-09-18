@@ -1,0 +1,6 @@
+{
+  "fooh": {
+    "type": "http",
+    "url": "https://fooh.com/mcp"
+  }
+}
